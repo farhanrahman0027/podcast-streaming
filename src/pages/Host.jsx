@@ -209,12 +209,10 @@ const Host = () => {
           </p>
           <button className="bg-transparent px-4 py-2 text-white w-32 border-2">Contact Us</button>
         </div>
-        <div className=" realtive mt-[40%] ">
-          <img src={ctaicon} alt="" className="bg-blue-700 px-5 py-4 w-[45vh]"/>
-        </div>
+        
       </div>
 
-
+      {/*Recent Episodes */}
       <div className="md:mt-24 px-16 mt-8">
         <div className="md:flex justify-between items-center">
           {/* Text Section */}

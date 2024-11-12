@@ -15,7 +15,7 @@ const footer = () => {
         </div>
         <div className="grid grid-cols-3 gap-12 mr-56">
           <div className="flex flex-col gap-2">
-            <h3 className="font-semibold">pages</h3>
+            <h3 className="font-semibold">Pages</h3>
             <NavLink to="/home">Home</NavLink>
             <NavLink to="/podcast">Podcast</NavLink>
             <NavLink to="/host">Host</NavLink>
@@ -23,7 +23,7 @@ const footer = () => {
           </div>
 
           <div className="flex flex-col gap-2">
-            <h3 className="font-semibold">Reach us</h3>
+            <h3 className="font-semibold">Reach Us</h3>
             <NavLink to="/contact">Contact</NavLink>
             <NavLink to="/about">About</NavLink>
           </div>
